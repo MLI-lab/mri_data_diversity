@@ -1,0 +1,108 @@
+folderDirectory,filename,start_slice,end_slice,numSlices,datasetName,protocolName,receiverChannels,encodeX,encodeY,reconX,reconY,systemVendor,systemModel,systemFieldStrength_T,institutionName,sequence_type
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_200_6002488.h5,0,16,16,fastmri_brain,AXFLAIR,16,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_201_6002987.h5,0,16,16,fastmri_brain,AXFLAIR,16,640,320,320,320,SIEMENS,Skyra,2.8936,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_200_6002458.h5,0,16,16,fastmri_brain,AXFLAIR,16,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_201_6003004.h5,0,16,16,fastmri_brain,AXFLAIR,20,640,320,320,320,SIEMENS,Skyra,2.8936,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_200_6002549.h5,0,16,16,fastmri_brain,AXFLAIR,20,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_201_6003002.h5,0,16,16,fastmri_brain,AXFLAIR,20,640,320,320,320,SIEMENS,Skyra,2.8936,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_200_6002606.h5,0,16,16,fastmri_brain,AXFLAIR,20,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXFLAIR_200_6002533.h5,0,16,16,fastmri_brain,AXFLAIR,22,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020332.h5,0,16,16,fastmri_brain,AXT1,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020323.h5,0,16,16,fastmri_brain,AXT1,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020566.h5,0,16,16,fastmri_brain,AXT1,12,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020523.h5,0,16,16,fastmri_brain,AXT1,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020203.h5,0,16,16,fastmri_brain,AXT1,16,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020488.h5,0,14,14,fastmri_brain,AXT1,16,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020266.h5,0,16,16,fastmri_brain,AXT1,16,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020384.h5,0,16,16,fastmri_brain,AXT1,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1_202_2020264.h5,0,14,14,fastmri_brain,AXT1,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_205_2050254.h5,0,16,16,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_202_6000281.h5,0,16,16,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Aera,1.494,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_205_2050063.h5,0,16,16,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_202_6000327.h5,0,16,16,fastmri_brain,AXT1POST,20,640,320,320,320,SIEMENS,Aera,1.494,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_206_6000221.h5,0,16,16,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Aera,1.494,NYU LANGONE LOC,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_202_6000322.h5,0,14,14,fastmri_brain,AXT1POST,18,640,320,320,320,SIEMENS,Aera,1.494,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_202_6000329.h5,0,14,14,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Aera,1.494,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_202_6000403.h5,0,16,16,fastmri_brain,AXT1POST,20,640,320,320,320,SIEMENS,Aera,1.494,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_202_6000346.h5,0,12,12,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Aera,1.494,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_208_2080087.h5,0,16,16,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_208_2080324.h5,0,16,16,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_207_2070009.h5,0,16,16,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_207_2070697.h5,0,16,16,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_208_2080504.h5,0,12,12,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_207_2070197.h5,0,16,16,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_208_2080035.h5,0,16,16,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_207_2070702.h5,0,14,14,fastmri_brain,AXT1POST,4,640,322,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_201_6002905.h5,0,16,16,fastmri_brain,AXT1POST,20,640,320,320,320,SIEMENS,Skyra,2.8936,TH RADIOLOGY,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_200_6001963.h5,0,16,16,fastmri_brain,AXT1POST,20,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_200_6002229.h5,0,16,16,fastmri_brain,AXT1POST,8,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_200_6002185.h5,0,16,16,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_201_6002703.h5,0,16,16,fastmri_brain,AXT1POST,16,640,320,320,320,SIEMENS,Skyra,2.8936,TH RADIOLOGY,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_200_6002227.h5,0,16,16,fastmri_brain,AXT1POST,20,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_201_6002848.h5,0,16,16,fastmri_brain,AXT1POST,12,640,320,320,320,SIEMENS,Skyra,2.8936,TH RADIOLOGY,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT1POST_200_6001959.h5,0,14,14,fastmri_brain,AXT1POST,20,640,320,320,320,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,Flash
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_205_2050029.h5,0,16,16,fastmri_brain,AXT2,16,640,320,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_205_6000104.h5,0,16,16,fastmri_brain,AXT2,16,640,320,320,320,SIEMENS,Aera,1.494,NYU LANGONE 32ND ST,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_206_2060009.h5,0,16,16,fastmri_brain,AXT2,20,640,320,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_205_2050077.h5,0,16,16,fastmri_brain,AXT2,16,640,320,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_202_2020537.h5,0,16,16,fastmri_brain,AXT2,16,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_202_2020250.h5,0,16,16,fastmri_brain,AXT2,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_202_2020380.h5,0,16,16,fastmri_brain,AXT2,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_202_2020196.h5,0,16,16,fastmri_brain,AXT2,20,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_202_2020063.h5,0,16,16,fastmri_brain,AXT2,16,640,320,320,320,SIEMENS,Aera,1.494,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_208_2080398.h5,0,16,16,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_207_2070439.h5,0,16,16,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_208_2080537.h5,0,16,16,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_207_2070678.h5,0,16,16,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_208_2080333.h5,0,16,16,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_207_2070753.h5,0,16,16,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_207_2070090.h5,0,16,16,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_208_2080728.h5,0,14,14,fastmri_brain,AXT2,4,640,320,320,320,SIEMENS,Avanto,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_200_2000460.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Skyra,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_200_2000388.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Skyra,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_201_2010128.h5,0,16,16,fastmri_brain,AXT2,12,768,396,384,384,SIEMENS,Skyra,2.8936,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_201_2010403.h5,0,16,16,fastmri_brain,AXT2,20,768,396,384,384,SIEMENS,Skyra,2.8936,TH,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_200_6002596.h5,0,16,16,fastmri_brain,AXT2,20,768,396,384,384,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_200_6002097.h5,0,16,16,fastmri_brain,AXT2,20,768,396,384,384,SIEMENS,Skyra,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_201_6002961.h5,0,12,12,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Skyra,2.8936,TH RADIOLOGY,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_200_2000441.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Skyra,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_6001668.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_2100271.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_2100266.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_2100221.h5,0,16,16,fastmri_brain,AXT2,20,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_6001537.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_2100334.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_6001698.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_210_2100175.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Prisma_fit,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_6001093.h5,0,16,16,fastmri_brain,AXT2,12,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_2090402.h5,0,16,16,fastmri_brain,AXT2,14,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_6001092.h5,0,16,16,fastmri_brain,AXT2,16,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_2090113.h5,0,16,16,fastmri_brain,AXT2,12,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_6001013.h5,0,16,16,fastmri_brain,AXT2,14,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_2090228.h5,0,16,16,fastmri_brain,AXT2,14,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_6001327.h5,0,16,16,fastmri_brain,AXT2,12,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/brain/multicoil_train/,file_brain_AXT2_209_6001461.h5,0,16,16,fastmri_brain,AXT2,12,768,396,384,384,SIEMENS,Biograph_mMR,2.8936,NYU LANGONE CBI,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001373.h5,0,33,33,fastmri_knee,CORPDFS_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,HJD,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000612.h5,0,45,45,fastmri_knee,CORPDFS_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000602.h5,0,30,30,fastmri_knee,CORPDFS_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000658.h5,0,30,30,fastmri_knee,CORPDFS_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000403.h5,0,40,40,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001864.h5,0,33,33,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,HJD,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000461.h5,0,33,33,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1002352.h5,0,38,38,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,HJD,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1002431.h5,0,35,35,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000554.h5,0,41,41,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001969.h5,0,31,31,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001985.h5,0,40,40,fastmri_knee,CORPDFS_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1002376.h5,0,28,28,fastmri_knee,CORPD_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1002561.h5,0,32,32,fastmri_knee,CORPD_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000472.h5,0,33,33,fastmri_knee,CORPD_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001907.h5,0,34,34,fastmri_knee,CORPD_FBK,15,640,372,320,320,SIEMENS,Aera,1.494,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000324.h5,0,32,32,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000400.h5,0,33,33,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001410.h5,0,37,37,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1000365.h5,0,38,38,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Skyra,2.89362,HJD,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001102.h5,0,40,40,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001694.h5,0,35,35,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1002385.h5,0,40,40,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho
+/media/ssd2/fastMRIdata/knee/multicoil_train/,file1001622.h5,0,35,35,fastmri_knee,CORPD_FBK,15,640,368,320,320,SIEMENS,Biograph_mMR,2.89362,NYU,TurboSpinEcho

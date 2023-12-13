@@ -1,0 +1,20 @@
+save_dir: results/unet/unet-small/pathology/01/
+trainset_csv: dataset_csv/fastmri_sliced/train/pathology_01.csv
+testset_csv: dataset_csv/fastmri_sliced/test/pathology_testset.csv
+
+model: unet-small
+lr: 0.001
+batch_size: 1
+num_epochs: 60
+checkpoint_epochs: all
+augment_data: False
+
+accl_factors:
+  - 4
+
+train_attr:
+  - label: Normal for age
+
+test_attr:
+  - label: Normal for age
+  - label: Pathology

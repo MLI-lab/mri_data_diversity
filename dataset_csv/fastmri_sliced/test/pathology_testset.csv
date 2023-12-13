@@ -1,0 +1,910 @@
+folderDirectory,filename,start_slice,end_slice,study_level,x,y,width,height,label,aera,datasetName
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,0,1,No,210.0,210.0,10.0,17.0,Pathology,170.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,2,3,No,198.0,91.0,9.0,10.0,Pathology,90.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,3,4,No,206.0,204.0,15.0,15.0,Pathology,225.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,4,5,No,99.0,145.0,6.0,7.0,Pathology,42.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,5,6,No,205.0,152.0,14.0,13.0,Pathology,182.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,6,7,No,205.0,152.0,9.0,7.0,Pathology,63.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,7,8,No,181.0,94.0,6.0,6.0,Pathology,36.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,8,9,No,174.0,88.0,5.0,5.0,Pathology,25.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002462.h5,9,10,No,138.0,128.0,7.0,12.0,Pathology,84.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002477.h5,3,4,No,214.0,205.0,4.0,6.0,Pathology,24.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002477.h5,5,6,No,197.0,138.0,7.0,8.0,Pathology,56.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002477.h5,6,7,No,116.0,142.0,29.0,10.0,Pathology,290.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002477.h5,7,8,No,184.0,137.0,21.0,15.0,Pathology,315.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,1,2,No,151.0,49.0,4.0,32.0,Pathology,128.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,3,4,No,151.0,54.0,5.0,27.0,Pathology,135.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,4,5,No,151.0,56.0,6.0,25.0,Pathology,150.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,5,6,No,152.0,59.0,6.0,23.0,Pathology,138.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,6,7,No,152.0,62.0,7.0,20.0,Pathology,140.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,9,10,No,187.0,81.0,41.0,25.0,Pathology,1025.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,10,11,No,184.0,81.0,42.0,28.0,Pathology,1176.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,11,12,No,180.0,81.0,43.0,30.0,Pathology,1290.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,12,13,No,177.0,81.0,44.0,33.0,Pathology,1452.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002483.h5,13,14,No,174.0,81.0,45.0,35.0,Pathology,1575.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002536.h5,0,1,No,128.0,159.0,8.0,10.0,Pathology,80.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002536.h5,5,6,No,191.0,194.0,7.0,8.0,Pathology,56.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,5,6,No,182.0,148.0,39.0,47.0,Pathology,1833.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,6,7,No,184.0,150.0,37.0,53.0,Pathology,1961.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,7,8,No,180.0,151.0,42.0,56.0,Pathology,2352.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,8,9,No,174.0,153.0,56.0,52.0,Pathology,2912.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,9,10,No,172.0,152.0,50.0,58.0,Pathology,2900.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,10,11,No,171.0,161.0,48.0,41.0,Pathology,1968.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,11,12,No,172.0,162.0,30.0,33.0,Pathology,990.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002560.h5,12,13,No,172.0,163.0,13.0,25.0,Pathology,325.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002562.h5,0,1,No,86.0,148.0,72.0,129.0,Pathology,9288.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002562.h5,1,2,No,84.0,155.0,75.0,120.0,Pathology,9000.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002562.h5,2,3,No,82.0,163.0,78.0,111.0,Pathology,8658.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,0,1,No,103.0,201.0,25.0,66.0,Pathology,1650.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,1,2,No,97.0,210.0,26.0,48.0,Pathology,1248.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,2,3,No,102.0,206.0,29.0,42.0,Pathology,1218.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,3,4,No,92.0,203.0,41.0,33.0,Pathology,1353.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,4,5,No,122.0,216.0,18.0,13.0,Pathology,234.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,5,6,No,98.0,119.0,18.0,44.0,Pathology,792.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,6,7,No,106.0,121.0,18.0,26.0,Pathology,468.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,7,8,No,117.0,210.0,26.0,28.0,Pathology,728.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,8,9,No,117.0,213.0,20.0,12.0,Pathology,240.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,9,10,No,129.0,138.0,8.0,15.0,Pathology,120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002572.h5,10,11,No,174.0,160.0,4.0,7.0,Pathology,28.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002581.h5,1,2,No,126.0,127.0,9.0,9.0,Pathology,81.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002581.h5,3,4,No,101.0,168.0,6.0,8.0,Pathology,48.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002581.h5,8,9,No,138.0,171.0,5.0,9.0,Pathology,45.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002584.h5,6,7,No,128.0,160.0,7.0,8.0,Pathology,56.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002588.h5,2,3,No,222.0,205.0,6.0,8.0,Pathology,48.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002588.h5,5,6,No,117.0,137.0,9.0,11.0,Pathology,99.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002588.h5,6,7,No,113.0,128.0,11.0,7.0,Pathology,77.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002603.h5,0,1,No,183.0,60.0,8.0,11.0,Pathology,88.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002603.h5,1,2,No,90.0,215.0,10.0,16.0,Pathology,160.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002603.h5,3,4,No,201.0,87.0,12.0,21.0,Pathology,252.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002603.h5,4,5,No,92.0,151.0,8.0,5.0,Pathology,40.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002603.h5,5,6,No,205.0,100.0,6.0,17.0,Pathology,102.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002603.h5,8,9,No,143.0,157.0,7.0,7.0,Pathology,49.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002603.h5,9,10,No,171.0,151.0,8.0,9.0,Pathology,72.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,0,1,No,105.0,218.0,28.0,15.0,Pathology,420.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,1,2,No,88.0,217.0,52.0,28.0,Pathology,1456.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,2,3,No,183.0,102.0,21.0,26.0,Pathology,546.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,3,4,No,208.0,180.0,26.0,17.0,Pathology,442.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,4,5,No,129.0,107.0,7.0,97.0,Pathology,679.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,5,6,No,128.0,116.0,13.0,86.0,Pathology,1118.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,6,7,No,178.0,132.0,25.0,54.0,Pathology,1350.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,7,8,No,189.0,145.0,12.0,14.0,Pathology,168.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,8,9,No,143.0,95.0,10.0,23.0,Pathology,230.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,9,10,No,174.0,109.0,10.0,33.0,Pathology,330.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002605.h5,10,11,No,140.0,118.0,15.0,23.0,Pathology,345.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002634.h5,5,6,No,210.0,166.0,6.0,7.0,Pathology,42.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002634.h5,6,7,No,210.0,167.0,6.0,7.0,Pathology,42.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,0,1,No,174.0,252.0,6.0,10.0,Pathology,60.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,2,3,No,208.0,80.0,4.0,6.0,Pathology,24.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,3,4,No,119.0,196.0,20.0,26.0,Pathology,520.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,4,5,No,124.0,177.0,13.0,44.0,Pathology,572.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,5,6,No,159.0,230.0,10.0,6.0,Pathology,60.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,6,7,No,187.0,219.0,12.0,8.0,Pathology,96.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,7,8,No,132.0,229.0,10.0,12.0,Pathology,120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,8,9,No,134.0,237.0,6.0,7.0,Pathology,42.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,9,10,No,131.0,232.0,5.0,4.0,Pathology,20.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002652.h5,11,12,No,169.0,188.0,10.0,6.0,Pathology,60.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002656.h5,0,1,No,118.0,185.0,13.0,16.0,Pathology,208.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002656.h5,1,2,No,211.0,179.0,22.0,8.0,Pathology,176.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002656.h5,2,3,No,104.0,162.0,2.0,8.0,Pathology,16.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002656.h5,3,4,No,212.0,144.0,6.0,5.0,Pathology,30.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002868.h5,0,1,No,118.0,237.0,5.0,11.0,Pathology,55.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002872.h5,1,2,No,193.0,91.0,12.0,12.0,Pathology,144.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002872.h5,2,3,No,195.0,95.0,7.0,7.0,Pathology,49.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,0,1,No,120.0,95.0,7.0,8.0,Pathology,56.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,1,2,No,203.0,85.0,5.0,5.0,Pathology,25.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,2,3,No,112.0,218.0,10.0,9.0,Pathology,90.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,3,4,No,108.0,118.0,10.0,9.0,Pathology,90.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,4,5,No,199.0,139.0,6.0,17.0,Pathology,102.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,5,6,No,109.0,149.0,6.0,9.0,Pathology,54.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,6,7,No,118.0,140.0,8.0,10.0,Pathology,80.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,7,8,No,137.0,86.0,6.0,8.0,Pathology,48.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002873.h5,8,9,No,138.0,112.0,5.0,6.0,Pathology,30.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,0,1,No,205.0,111.0,27.0,33.0,Pathology,891.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,1,2,No,202.0,111.0,28.0,30.0,Pathology,840.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,2,3,No,199.0,112.0,28.0,28.0,Pathology,784.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,3,4,No,196.0,112.0,28.0,25.0,Pathology,700.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,4,5,No,193.0,113.0,28.0,23.0,Pathology,644.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,5,6,No,190.0,113.0,28.0,20.0,Pathology,560.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,6,7,No,187.0,113.0,29.0,18.0,Pathology,522.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,11,12,No,137.0,198.0,4.0,7.0,Pathology,28.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,12,13,No,137.0,198.0,5.0,7.0,Pathology,35.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002910.h5,1,2,No,123.0,160.0,28.0,88.0,Pathology,2464.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002912.h5,0,1,No,125.0,176.0,13.0,12.0,Pathology,156.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002913.h5,0,1,No,123.0,73.0,8.0,10.0,Pathology,80.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,0,1,No,90.0,69.0,129.0,212.0,Pathology,27348.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,1,2,No,94.0,77.0,124.0,193.0,Pathology,23932.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,2,3,No,97.0,86.0,119.0,174.0,Pathology,20706.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,3,4,No,101.0,94.0,114.0,155.0,Pathology,17670.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,4,5,No,105.0,103.0,109.0,137.0,Pathology,14933.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,5,6,No,105.0,227.0,105.0,20.0,Pathology,2100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,6,7,No,114.0,219.0,90.0,23.0,Pathology,2070.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,7,8,No,122.0,211.0,75.0,26.0,Pathology,1950.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,8,9,No,211.0,79.0,31.0,35.0,Pathology,1085.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,9,10,No,210.0,81.0,28.0,32.0,Pathology,896.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,10,11,No,210.0,84.0,25.0,29.0,Pathology,725.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,11,12,No,210.0,87.0,22.0,26.0,Pathology,572.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002922.h5,12,13,No,209.0,89.0,19.0,23.0,Pathology,437.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,0,1,No,153.0,158.0,14.0,18.0,Pathology,252.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,1,2,No,154.0,156.0,20.0,22.0,Pathology,440.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,2,3,No,155.0,154.0,25.0,26.0,Pathology,650.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,3,4,No,156.0,151.0,31.0,30.0,Pathology,930.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,4,5,No,148.0,60.0,62.0,156.0,Pathology,9672.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,5,6,No,140.0,78.0,58.0,135.0,Pathology,7830.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,6,7,No,133.0,97.0,54.0,113.0,Pathology,6102.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,7,8,No,69.0,102.0,50.0,96.0,Pathology,4800.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,8,9,No,87.0,109.0,35.0,79.0,Pathology,2765.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,9,10,No,148.0,149.0,29.0,26.0,Pathology,754.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,10,11,No,143.0,150.0,36.0,26.0,Pathology,936.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,11,12,No,142.0,149.0,35.0,26.0,Pathology,910.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002968.h5,12,13,No,139.0,151.0,37.0,24.0,Pathology,888.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,0,1,No,52.0,82.0,111.0,197.0,Pathology,21867.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,1,2,No,56.0,90.0,104.0,186.0,Pathology,19344.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,2,3,No,59.0,98.0,98.0,175.0,Pathology,17150.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,3,4,No,63.0,106.0,91.0,164.0,Pathology,14924.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,4,5,No,67.0,114.0,84.0,153.0,Pathology,12852.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,5,6,No,70.0,121.0,78.0,142.0,Pathology,11076.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,6,7,No,74.0,129.0,71.0,131.0,Pathology,9301.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,7,8,No,78.0,137.0,65.0,120.0,Pathology,7800.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,8,9,No,187.0,144.0,63.0,62.0,Pathology,3906.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,9,10,No,187.0,149.0,63.0,59.0,Pathology,3717.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,10,11,No,188.0,153.0,63.0,55.0,Pathology,3465.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,11,12,No,189.0,158.0,63.0,52.0,Pathology,3276.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,12,13,No,190.0,163.0,63.0,48.0,Pathology,3024.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002969.h5,13,14,No,171.0,153.0,76.0,57.0,Pathology,4332.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,0,1,No,113.0,207.0,25.0,41.0,Pathology,1025.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,1,2,No,117.0,209.0,17.0,44.0,Pathology,748.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,2,3,No,27.0,159.0,101.0,137.0,Pathology,13837.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,3,4,No,19.0,157.0,107.0,133.0,Pathology,14231.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,4,5,No,36.0,186.0,66.0,83.0,Pathology,5478.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,5,6,No,48.0,188.0,53.0,72.0,Pathology,3816.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,6,7,No,61.0,190.0,40.0,61.0,Pathology,2440.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,7,8,No,73.0,193.0,27.0,50.0,Pathology,1350.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002979.h5,8,9,No,86.0,195.0,15.0,39.0,Pathology,585.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,0,1,No,128.0,80.0,16.0,25.0,Pathology,400.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,1,2,No,129.0,82.0,17.0,19.0,Pathology,323.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,6,7,No,98.0,103.0,20.0,25.0,Pathology,500.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,7,8,No,175.0,111.0,33.0,38.0,Pathology,1254.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,8,9,No,103.0,107.0,21.0,25.0,Pathology,525.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,9,10,No,106.0,109.0,21.0,25.0,Pathology,525.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,10,11,No,161.0,109.0,76.0,121.0,Pathology,9196.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,11,12,No,159.0,113.0,71.0,110.0,Pathology,7810.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,12,13,No,157.0,118.0,67.0,98.0,Pathology,6566.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,13,14,No,155.0,122.0,62.0,86.0,Pathology,5332.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002985.h5,14,15,No,153.0,127.0,57.0,74.0,Pathology,4218.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002988.h5,0,1,No,175.0,188.0,42.0,47.0,Pathology,1974.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002988.h5,1,2,No,176.0,190.0,33.0,41.0,Pathology,1353.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002988.h5,2,3,No,177.0,193.0,25.0,36.0,Pathology,900.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002988.h5,3,4,No,177.0,195.0,16.0,30.0,Pathology,480.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000418.h5,0,1,No,46.0,101.0,109.0,144.0,Pathology,15696.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000418.h5,1,2,No,49.0,105.0,101.0,133.0,Pathology,13433.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000418.h5,2,3,No,52.0,109.0,93.0,121.0,Pathology,11253.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000418.h5,3,4,No,55.0,113.0,84.0,110.0,Pathology,9240.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000418.h5,4,5,No,58.0,116.0,76.0,99.0,Pathology,7524.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000418.h5,5,6,No,61.0,120.0,68.0,88.0,Pathology,5984.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000418.h5,6,7,No,109.0,128.0,17.0,64.0,Pathology,1088.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000447.h5,4,5,No,142.0,186.0,51.0,49.0,Pathology,2499.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000447.h5,5,6,No,141.0,186.0,48.0,47.0,Pathology,2256.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000447.h5,6,7,No,141.0,187.0,46.0,45.0,Pathology,2070.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000447.h5,7,8,No,141.0,187.0,43.0,43.0,Pathology,1849.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000447.h5,8,9,No,140.0,187.0,40.0,41.0,Pathology,1640.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000447.h5,9,10,No,140.0,187.0,37.0,39.0,Pathology,1443.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000468.h5,0,1,No,150.0,167.0,32.0,34.0,Pathology,1088.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000468.h5,1,2,No,150.0,172.0,32.0,31.0,Pathology,992.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000468.h5,2,3,No,149.0,178.0,31.0,27.0,Pathology,837.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,0,1,No,148.0,222.0,53.0,61.0,Pathology,3233.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,1,2,No,149.0,212.0,51.0,67.0,Pathology,3417.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,2,3,No,151.0,203.0,48.0,73.0,Pathology,3504.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,3,4,No,152.0,193.0,46.0,79.0,Pathology,3634.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,4,5,No,153.0,184.0,44.0,85.0,Pathology,3740.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,5,6,No,154.0,174.0,42.0,92.0,Pathology,3864.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,6,7,No,148.0,183.0,25.0,73.0,Pathology,1825.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,7,8,No,153.0,203.0,33.0,58.0,Pathology,1914.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,8,9,No,200.0,190.0,16.0,37.0,Pathology,592.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,9,10,No,198.0,193.0,17.0,33.0,Pathology,561.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,10,11,No,135.0,234.0,32.0,25.0,Pathology,800.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,11,12,No,137.0,231.0,26.0,23.0,Pathology,598.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,12,13,No,138.0,229.0,21.0,21.0,Pathology,441.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,13,14,No,139.0,226.0,15.0,19.0,Pathology,285.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000476.h5,14,15,No,140.0,224.0,9.0,17.0,Pathology,153.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,0,1,No,192.0,45.0,68.0,157.0,Pathology,10676.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,1,2,No,191.0,46.0,69.0,152.0,Pathology,10488.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,2,3,No,189.0,47.0,69.0,147.0,Pathology,10143.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,3,4,No,188.0,48.0,70.0,142.0,Pathology,9940.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,4,5,No,187.0,49.0,71.0,137.0,Pathology,9727.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,5,6,No,185.0,49.0,71.0,132.0,Pathology,9372.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,6,7,No,184.0,50.0,72.0,128.0,Pathology,9216.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,7,8,No,183.0,51.0,72.0,123.0,Pathology,8856.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,8,9,No,203.0,115.0,53.0,69.0,Pathology,3657.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,9,10,No,200.0,116.0,53.0,69.0,Pathology,3657.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,10,11,No,197.0,117.0,52.0,68.0,Pathology,3536.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,11,12,No,194.0,118.0,51.0,67.0,Pathology,3417.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,12,13,No,190.0,119.0,50.0,66.0,Pathology,3300.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,13,14,No,187.0,120.0,49.0,66.0,Pathology,3234.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,14,15,No,193.0,147.0,23.0,20.0,Pathology,460.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000486.h5,15,16,No,189.0,144.0,18.0,16.0,Pathology,288.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000520.h5,0,1,No,84.0,193.0,10.0,17.0,Pathology,170.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000520.h5,3,4,No,157.0,137.0,10.0,10.0,Pathology,100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000520.h5,4,5,No,156.0,160.0,9.0,15.0,Pathology,135.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000521.h5,0,1,No,128.0,152.0,43.0,40.0,Pathology,1720.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000521.h5,1,2,No,139.0,160.0,34.0,21.0,Pathology,714.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,0,1,No,127.0,45.0,50.0,62.0,Pathology,3100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,1,2,No,127.0,49.0,46.0,56.0,Pathology,2576.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,2,3,No,127.0,53.0,42.0,50.0,Pathology,2100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,3,4,No,127.0,57.0,39.0,44.0,Pathology,1716.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,4,5,No,127.0,60.0,35.0,38.0,Pathology,1330.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,5,6,No,127.0,64.0,31.0,32.0,Pathology,992.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,6,7,No,127.0,68.0,28.0,27.0,Pathology,756.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,7,8,No,127.0,72.0,24.0,21.0,Pathology,504.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,8,9,No,149.0,66.0,67.0,74.0,Pathology,4958.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,9,10,No,147.0,71.0,63.0,70.0,Pathology,4410.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,10,11,No,146.0,77.0,60.0,66.0,Pathology,3960.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,11,12,No,145.0,82.0,56.0,62.0,Pathology,3472.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,12,13,No,143.0,88.0,53.0,58.0,Pathology,3074.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,13,14,No,142.0,94.0,49.0,54.0,Pathology,2646.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,14,15,No,140.0,99.0,45.0,50.0,Pathology,2250.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000532.h5,15,16,No,139.0,105.0,42.0,46.0,Pathology,1932.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000533.h5,4,5,No,167.0,100.0,7.0,11.0,Pathology,77.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000533.h5,5,6,No,165.0,110.0,9.0,11.0,Pathology,99.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000569.h5,0,1,No,125.0,47.0,22.0,24.0,Pathology,528.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000569.h5,1,2,No,125.0,42.0,28.0,30.0,Pathology,840.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,4,5,No,111.0,106.0,9.0,9.0,Pathology,81.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,5,6,No,112.0,104.0,10.0,10.0,Pathology,100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,6,7,No,72.0,104.0,3.0,7.0,Pathology,21.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,7,8,No,132.0,163.0,8.0,9.0,Pathology,72.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,8,9,No,116.0,99.0,13.0,13.0,Pathology,169.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,9,10,No,117.0,97.0,13.0,14.0,Pathology,182.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,10,11,No,118.0,95.0,14.0,16.0,Pathology,224.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,11,12,No,120.0,93.0,15.0,17.0,Pathology,255.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,12,13,No,121.0,91.0,16.0,18.0,Pathology,288.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,13,14,No,122.0,89.0,17.0,19.0,Pathology,323.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000571.h5,14,15,No,124.0,87.0,18.0,20.0,Pathology,360.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000881.h5,1,2,No,128.0,153.0,14.0,10.0,Pathology,140.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000881.h5,2,3,No,136.0,152.0,7.0,11.0,Pathology,77.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000881.h5,3,4,No,138.0,153.0,5.0,6.0,Pathology,30.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000881.h5,5,6,No,127.0,144.0,6.0,5.0,Pathology,30.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,0,1,No,81.0,181.0,14.0,15.0,Pathology,210.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,1,2,No,85.0,47.0,19.0,12.0,Pathology,228.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,2,3,No,86.0,47.0,17.0,13.0,Pathology,221.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,3,4,No,87.0,47.0,15.0,14.0,Pathology,210.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,4,5,No,53.0,115.0,12.0,11.0,Pathology,132.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,5,6,No,119.0,126.0,17.0,17.0,Pathology,289.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,6,7,No,122.0,130.0,15.0,14.0,Pathology,210.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,7,8,No,124.0,133.0,12.0,11.0,Pathology,132.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000896.h5,8,9,No,126.0,137.0,10.0,7.0,Pathology,70.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000909.h5,3,4,No,104.0,112.0,4.0,11.0,Pathology,44.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000909.h5,4,5,No,113.0,91.0,5.0,5.0,Pathology,25.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000924.h5,8,9,No,155.0,180.0,7.0,9.0,Pathology,63.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000924.h5,9,10,No,129.0,153.0,7.0,4.0,Pathology,28.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000956.h5,4,5,No,158.0,166.0,10.0,10.0,Pathology,100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000956.h5,5,6,No,161.0,167.0,7.0,9.0,Pathology,63.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000956.h5,8,9,No,127.0,117.0,4.0,7.0,Pathology,28.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000956.h5,9,10,No,128.0,117.0,5.0,8.0,Pathology,40.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,0,1,No,186.0,88.0,19.0,22.0,Pathology,418.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,1,2,No,194.0,90.0,16.0,42.0,Pathology,672.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,2,3,No,194.0,92.0,15.0,40.0,Pathology,600.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,3,4,No,165.0,129.0,7.0,5.0,Pathology,35.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,4,5,No,194.0,94.0,12.0,38.0,Pathology,456.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,5,6,No,160.0,196.0,7.0,5.0,Pathology,35.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,6,7,No,194.0,97.0,9.0,35.0,Pathology,315.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,7,8,No,161.0,110.0,12.0,15.0,Pathology,180.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000962.h5,8,9,No,200.0,105.0,13.0,13.0,Pathology,169.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_205_6000163.h5,5,6,No,182.0,109.0,16.0,13.0,Pathology,208.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_205_6000163.h5,6,7,No,185.0,108.0,11.0,14.0,Pathology,154.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_205_6000163.h5,7,8,No,105.0,121.0,17.0,16.0,Pathology,272.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_205_6000163.h5,8,9,No,104.0,113.0,50.0,20.0,Pathology,1000.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_205_6000163.h5,9,10,No,105.0,122.0,18.0,9.0,Pathology,162.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000248.h5,0,1,No,84.0,119.0,7.0,10.0,Pathology,70.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000262.h5,0,1,No,138.0,181.0,6.0,7.0,Pathology,42.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001538.h5,0,1,No,144.0,155.0,6.0,10.0,Pathology,60.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001538.h5,3,4,No,95.0,66.0,8.0,10.0,Pathology,80.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,1,2,No,134.0,285.0,30.0,12.0,Pathology,360.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,2,3,No,134.0,283.0,29.0,14.0,Pathology,406.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,3,4,No,135.0,280.0,28.0,17.0,Pathology,476.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,4,5,No,136.0,278.0,27.0,19.0,Pathology,513.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,5,6,No,136.0,276.0,26.0,21.0,Pathology,546.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,6,7,No,162.0,279.0,10.0,11.0,Pathology,110.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,7,8,No,162.0,271.0,10.0,15.0,Pathology,150.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,8,9,No,163.0,264.0,10.0,18.0,Pathology,180.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,9,10,No,164.0,257.0,10.0,22.0,Pathology,220.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,10,11,No,164.0,250.0,11.0,25.0,Pathology,275.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,11,12,No,86.0,213.0,89.0,56.0,Pathology,4984.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,12,13,No,88.0,210.0,85.0,51.0,Pathology,4335.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,13,14,No,101.0,213.0,71.0,37.0,Pathology,2627.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,14,15,No,113.0,213.0,56.0,30.0,Pathology,1680.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001927.h5,15,16,No,140.0,213.0,26.0,21.0,Pathology,546.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001932.h5,0,1,No,197.0,72.0,4.0,7.0,Pathology,28.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001932.h5,1,2,No,178.0,61.0,4.0,7.0,Pathology,28.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001932.h5,3,4,No,133.0,65.0,4.0,4.0,Pathology,16.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001932.h5,4,5,No,180.0,76.0,4.0,7.0,Pathology,28.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001932.h5,7,8,No,197.0,124.0,6.0,4.0,Pathology,24.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002725.h5,8,9,No,133.0,165.0,2.0,6.0,Pathology,12.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002725.h5,9,10,No,133.0,164.0,8.0,11.0,Pathology,88.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002740.h5,7,8,No,188.0,136.0,4.0,11.0,Pathology,44.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002740.h5,8,9,No,186.0,139.0,5.0,7.0,Pathology,35.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002740.h5,10,11,No,140.0,146.0,5.0,6.0,Pathology,30.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002740.h5,11,12,No,141.0,146.0,5.0,5.0,Pathology,25.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002793.h5,1,2,No,175.0,94.0,52.0,56.0,Pathology,2912.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002793.h5,2,3,No,185.0,95.0,39.0,45.0,Pathology,1755.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002793.h5,3,4,No,182.0,97.0,46.0,49.0,Pathology,2254.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002793.h5,4,5,No,178.0,99.0,53.0,53.0,Pathology,2809.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002793.h5,5,6,No,185.0,103.0,28.0,47.0,Pathology,1316.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002841.h5,3,4,No,187.0,46.0,16.0,6.0,Pathology,96.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002841.h5,4,5,No,186.0,44.0,16.0,8.0,Pathology,128.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,0,1,No,231.0,90.0,55.0,71.0,Pathology,3905.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,1,2,No,234.0,98.0,49.0,64.0,Pathology,3136.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,2,3,No,236.0,107.0,43.0,56.0,Pathology,2408.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,3,4,No,239.0,115.0,37.0,49.0,Pathology,1813.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,4,5,No,241.0,123.0,31.0,41.0,Pathology,1271.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,8,9,No,140.0,126.0,5.0,4.0,Pathology,20.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,9,10,No,144.0,133.0,7.0,13.0,Pathology,91.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002885.h5,10,11,No,147.0,155.0,3.0,5.0,Pathology,15.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020003.h5,0,1,No,207.0,106.0,8.0,8.0,Pathology,64.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020003.h5,2,3,No,158.0,117.0,5.0,17.0,Pathology,85.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020003.h5,3,4,No,155.0,115.0,12.0,32.0,Pathology,384.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020003.h5,4,5,No,155.0,119.0,13.0,33.0,Pathology,429.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020029.h5,0,1,No,151.0,227.0,52.0,47.0,Pathology,2444.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020029.h5,1,2,No,155.0,234.0,44.0,39.0,Pathology,1716.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020029.h5,2,3,No,159.0,241.0,36.0,31.0,Pathology,1116.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,0,1,No,224.0,113.0,37.0,72.0,Pathology,2664.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,1,2,No,239.0,80.0,55.0,128.0,Pathology,7040.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,2,3,No,243.0,87.0,76.0,118.0,Pathology,8968.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,3,4,No,237.0,95.0,57.0,105.0,Pathology,5985.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,4,5,No,244.0,107.0,48.0,103.0,Pathology,4944.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,5,6,No,241.0,113.0,50.0,93.0,Pathology,4650.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,6,7,No,241.0,109.0,49.0,100.0,Pathology,4900.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,7,8,No,239.0,112.0,60.0,92.0,Pathology,5520.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,8,9,No,240.0,116.0,53.0,92.0,Pathology,4876.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,9,10,No,237.0,122.0,52.0,74.0,Pathology,3848.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,10,11,No,205.0,69.0,74.0,133.0,Pathology,9842.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,11,12,No,202.0,76.0,70.0,106.0,Pathology,7420.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,12,13,No,208.0,84.0,54.0,80.0,Pathology,4320.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020066.h5,13,14,No,206.0,95.0,47.0,64.0,Pathology,3008.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020082.h5,12,13,No,138.0,62.0,71.0,27.0,Pathology,1917.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020082.h5,13,14,No,145.0,70.0,53.0,24.0,Pathology,1272.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020082.h5,14,15,No,152.0,78.0,36.0,21.0,Pathology,756.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020111.h5,0,1,No,101.0,195.0,31.0,44.0,Pathology,1364.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020111.h5,1,2,No,102.0,193.0,29.0,38.0,Pathology,1102.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020111.h5,2,3,No,102.0,191.0,27.0,33.0,Pathology,891.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020111.h5,3,4,No,102.0,190.0,25.0,27.0,Pathology,675.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020111.h5,4,5,No,102.0,188.0,23.0,22.0,Pathology,506.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020111.h5,5,6,No,175.0,191.0,18.0,22.0,Pathology,396.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,0,1,No,155.0,54.0,13.0,22.0,Pathology,286.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,1,2,No,143.0,55.0,17.0,23.0,Pathology,391.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,2,3,No,142.0,53.0,18.0,27.0,Pathology,486.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,3,4,No,142.0,51.0,19.0,31.0,Pathology,589.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,4,5,No,141.0,49.0,20.0,34.0,Pathology,680.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,5,6,No,160.0,56.0,13.0,25.0,Pathology,325.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,6,7,No,159.0,58.0,14.0,26.0,Pathology,364.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,7,8,No,151.0,76.0,12.0,17.0,Pathology,204.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,8,9,No,163.0,69.0,22.0,15.0,Pathology,330.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,9,10,No,233.0,127.0,46.0,79.0,Pathology,3634.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,10,11,No,225.0,124.0,44.0,75.0,Pathology,3300.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,11,12,No,218.0,121.0,42.0,71.0,Pathology,2982.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,12,13,No,210.0,119.0,40.0,67.0,Pathology,2680.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,13,14,No,203.0,116.0,38.0,63.0,Pathology,2394.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,14,15,No,195.0,113.0,36.0,59.0,Pathology,2124.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020129.h5,15,16,No,187.0,110.0,34.0,55.0,Pathology,1870.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020158.h5,10,11,No,102.0,167.0,20.0,23.0,Pathology,460.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020158.h5,11,12,No,109.0,175.0,12.0,16.0,Pathology,192.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,14,15,No,168.0,104.0,64.0,71.0,Pathology,4544.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,15,16,No,163.0,106.0,63.0,69.0,Pathology,4347.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020194.h5,2,3,No,190.0,214.0,9.0,12.0,Pathology,108.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020194.h5,3,4,No,188.0,213.0,9.0,13.0,Pathology,117.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020215.h5,11,12,No,157.0,57.0,53.0,28.0,Pathology,1484.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020215.h5,12,13,No,160.0,64.0,46.0,22.0,Pathology,1012.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020215.h5,13,14,No,162.0,71.0,39.0,16.0,Pathology,624.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020215.h5,14,15,No,165.0,78.0,33.0,10.0,Pathology,330.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,0,1,No,175.0,188.0,26.0,28.0,Pathology,728.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,1,2,No,175.0,192.0,21.0,34.0,Pathology,714.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,2,3,No,189.0,217.0,17.0,25.0,Pathology,425.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,3,4,No,194.0,214.0,18.0,38.0,Pathology,684.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,4,5,No,181.0,188.0,33.0,36.0,Pathology,1188.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,5,6,No,182.0,194.0,34.0,35.0,Pathology,1190.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,6,7,No,186.0,200.0,23.0,27.0,Pathology,621.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,7,8,No,186.0,206.0,24.0,23.0,Pathology,552.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,8,9,No,184.0,212.0,38.0,33.0,Pathology,1254.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,9,10,No,184.0,218.0,40.0,32.0,Pathology,1280.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,10,11,No,185.0,224.0,41.0,32.0,Pathology,1312.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,11,12,No,185.0,225.0,33.0,21.0,Pathology,693.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020313.h5,12,13,No,183.0,227.0,17.0,12.0,Pathology,204.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020318.h5,3,4,No,174.0,171.0,55.0,66.0,Pathology,3630.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020318.h5,12,13,No,172.0,198.0,29.0,31.0,Pathology,899.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,0,1,No,172.0,232.0,69.0,46.0,Pathology,3174.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,1,2,No,165.0,214.0,70.0,67.0,Pathology,4690.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,2,3,No,164.0,201.0,78.0,80.0,Pathology,6240.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,3,4,No,164.0,205.0,71.0,72.0,Pathology,5112.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,4,5,No,165.0,209.0,65.0,64.0,Pathology,4160.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,5,6,No,165.0,213.0,59.0,56.0,Pathology,3304.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,6,7,No,165.0,218.0,53.0,48.0,Pathology,2544.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,7,8,No,166.0,222.0,46.0,40.0,Pathology,1840.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020455.h5,8,9,No,166.0,226.0,40.0,32.0,Pathology,1280.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,1,2,No,149.0,21.0,9.0,8.0,Pathology,72.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,2,3,No,148.0,24.0,10.0,8.0,Pathology,80.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,3,4,No,146.0,27.0,10.0,9.0,Pathology,90.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,4,5,No,144.0,30.0,11.0,10.0,Pathology,110.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,5,6,No,142.0,33.0,12.0,10.0,Pathology,120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,6,7,No,140.0,36.0,12.0,11.0,Pathology,132.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,7,8,No,122.0,37.0,24.0,26.0,Pathology,624.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,8,9,No,88.0,90.0,12.0,11.0,Pathology,132.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,9,10,No,88.0,47.0,58.0,58.0,Pathology,3364.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,10,11,No,93.0,56.0,56.0,54.0,Pathology,3024.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,11,12,No,98.0,66.0,55.0,51.0,Pathology,2805.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,12,13,No,102.0,75.0,53.0,48.0,Pathology,2544.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,13,14,No,107.0,85.0,52.0,44.0,Pathology,2288.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,14,15,No,112.0,95.0,50.0,41.0,Pathology,2050.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020518.h5,15,16,No,116.0,104.0,49.0,38.0,Pathology,1862.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020526.h5,0,1,No,115.0,116.0,92.0,110.0,Pathology,10120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020526.h5,1,2,No,117.0,120.0,87.0,99.0,Pathology,8613.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020526.h5,2,3,No,120.0,123.0,81.0,87.0,Pathology,7047.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020526.h5,3,4,No,122.0,127.0,76.0,76.0,Pathology,5776.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020526.h5,4,5,No,124.0,131.0,71.0,64.0,Pathology,4544.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020526.h5,5,6,No,127.0,135.0,66.0,53.0,Pathology,3498.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020530.h5,7,8,No,187.0,168.0,30.0,27.0,Pathology,810.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020530.h5,11,12,No,176.0,173.0,27.0,24.0,Pathology,648.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,0,1,No,71.0,68.0,172.0,202.0,Pathology,34744.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,1,2,No,74.0,69.0,167.0,196.0,Pathology,32732.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,2,3,No,77.0,71.0,162.0,190.0,Pathology,30780.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,3,4,No,80.0,72.0,157.0,183.0,Pathology,28731.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,4,5,No,83.0,73.0,152.0,177.0,Pathology,26904.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,5,6,No,86.0,75.0,147.0,171.0,Pathology,25137.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,6,7,No,89.0,76.0,142.0,165.0,Pathology,23430.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,7,8,No,92.0,77.0,137.0,159.0,Pathology,21783.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,8,9,No,95.0,79.0,131.0,153.0,Pathology,20043.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,9,10,No,104.0,86.0,115.0,135.0,Pathology,15525.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,10,11,No,112.0,106.0,98.0,105.0,Pathology,10290.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020559.h5,11,12,No,121.0,126.0,81.0,74.0,Pathology,5994.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,0,1,No,101.0,193.0,118.0,56.0,Pathology,6608.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,1,2,No,99.0,100.0,121.0,150.0,Pathology,18150.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,2,3,No,103.0,104.0,114.0,141.0,Pathology,16074.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,3,4,No,106.0,108.0,107.0,132.0,Pathology,14124.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,4,5,No,110.0,112.0,101.0,123.0,Pathology,12423.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,5,6,No,114.0,116.0,94.0,114.0,Pathology,10716.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,6,7,No,117.0,120.0,87.0,106.0,Pathology,9222.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,7,8,No,121.0,123.0,81.0,97.0,Pathology,7857.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,8,9,No,124.0,127.0,74.0,88.0,Pathology,6512.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020561.h5,9,10,No,179.0,150.0,10.0,43.0,Pathology,430.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020576.h5,5,6,No,108.0,92.0,101.0,52.0,Pathology,5252.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020576.h5,6,7,No,123.0,94.0,38.0,43.0,Pathology,1634.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020581.h5,0,1,No,182.0,124.0,71.0,73.0,Pathology,5183.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020581.h5,8,9,No,163.0,96.0,84.0,112.0,Pathology,9408.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020581.h5,9,10,No,164.0,101.0,78.0,102.0,Pathology,7956.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020581.h5,11,12,No,165.0,112.0,66.0,80.0,Pathology,5280.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020581.h5,12,13,No,162.0,124.0,48.0,57.0,Pathology,2736.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,0,1,No,102.0,104.0,123.0,173.0,Pathology,21279.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,1,2,No,107.0,110.0,116.0,161.0,Pathology,18676.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,2,3,No,111.0,116.0,108.0,149.0,Pathology,16092.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,3,4,No,116.0,122.0,101.0,137.0,Pathology,13837.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,4,5,No,120.0,145.0,12.0,13.0,Pathology,156.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,5,6,No,119.0,141.0,14.0,15.0,Pathology,210.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,6,7,No,118.0,137.0,16.0,16.0,Pathology,256.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,7,8,No,116.0,134.0,18.0,18.0,Pathology,324.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,8,9,No,115.0,130.0,20.0,20.0,Pathology,400.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,9,10,No,114.0,126.0,22.0,21.0,Pathology,462.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,10,11,No,96.0,115.0,13.0,17.0,Pathology,221.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,11,12,No,94.0,113.0,21.0,25.0,Pathology,525.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,12,13,No,97.0,106.0,35.0,34.0,Pathology,1190.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,13,14,No,105.0,103.0,31.0,43.0,Pathology,1333.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020589.h5,14,15,No,113.0,127.0,24.0,22.0,Pathology,528.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,0,1,No,106.0,89.0,66.0,80.0,Pathology,5280.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,1,2,No,102.0,82.0,67.0,87.0,Pathology,5829.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,2,3,No,99.0,75.0,67.0,94.0,Pathology,6298.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,3,4,No,96.0,69.0,68.0,101.0,Pathology,6868.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,4,5,No,92.0,62.0,68.0,108.0,Pathology,7344.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,5,6,No,89.0,55.0,69.0,116.0,Pathology,8004.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,6,7,No,84.0,66.0,68.0,107.0,Pathology,7276.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,7,8,No,91.0,70.0,61.0,100.0,Pathology,6100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,8,9,No,97.0,74.0,53.0,94.0,Pathology,4982.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,9,10,No,104.0,78.0,46.0,88.0,Pathology,4048.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,10,11,No,110.0,82.0,39.0,82.0,Pathology,3198.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020590.h5,11,12,No,123.0,106.0,27.0,44.0,Pathology,1188.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120021.h5,0,1,No,148.0,85.0,92.0,124.0,Pathology,11408.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120021.h5,1,2,No,155.0,93.0,83.0,116.0,Pathology,9628.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120021.h5,2,3,No,161.0,100.0,75.0,107.0,Pathology,8025.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120021.h5,3,4,No,167.0,107.0,66.0,99.0,Pathology,6534.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120021.h5,4,5,No,196.0,111.0,36.0,81.0,Pathology,2916.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120022.h5,0,1,No,159.0,134.0,8.0,67.0,Pathology,536.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120022.h5,1,2,No,160.0,131.0,11.0,64.0,Pathology,704.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2120022.h5,2,3,No,160.0,132.0,12.0,47.0,Pathology,564.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,0,1,No,102.0,124.0,25.0,23.0,Pathology,575.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,1,2,No,72.0,102.0,54.0,62.0,Pathology,3348.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,2,3,No,65.0,108.0,68.0,70.0,Pathology,4760.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,3,4,No,63.0,114.0,57.0,56.0,Pathology,3192.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,4,5,No,75.0,110.0,64.0,67.0,Pathology,4288.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,5,6,No,74.0,108.0,52.0,67.0,Pathology,3484.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,6,7,No,83.0,116.0,48.0,57.0,Pathology,2736.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,11,12,No,96.0,98.0,29.0,32.0,Pathology,928.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,12,13,No,100.0,107.0,24.0,25.0,Pathology,600.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,13,14,No,105.0,117.0,19.0,18.0,Pathology,342.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000333.h5,14,15,No,109.0,126.0,14.0,11.0,Pathology,154.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000336.h5,0,1,No,50.0,168.0,6.0,8.0,Pathology,48.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000392.h5,0,1,No,126.0,108.0,6.0,94.0,Pathology,564.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000392.h5,1,2,No,122.0,116.0,19.0,77.0,Pathology,1463.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000392.h5,2,3,No,120.0,126.0,19.0,64.0,Pathology,1216.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000392.h5,7,8,No,51.0,183.0,36.0,33.0,Pathology,1188.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000392.h5,8,9,No,51.0,183.0,39.0,30.0,Pathology,1170.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,0,1,No,1.0,138.0,268.0,11.0,Pathology,2948.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,1,2,No,1.0,138.0,268.0,11.0,Pathology,2948.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,2,3,No,162.0,211.0,9.0,12.0,Pathology,108.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,3,4,No,161.0,210.0,10.0,12.0,Pathology,120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,4,5,No,161.0,221.0,8.0,11.0,Pathology,88.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,5,6,No,2.0,139.0,268.0,10.0,Pathology,2680.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,6,7,No,2.0,139.0,268.0,10.0,Pathology,2680.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,7,8,No,2.0,139.0,268.0,9.0,Pathology,2412.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,8,9,No,2.0,139.0,268.0,9.0,Pathology,2412.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,9,10,No,2.0,139.0,267.0,9.0,Pathology,2403.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,10,11,No,3.0,139.0,267.0,8.0,Pathology,2136.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,11,12,No,3.0,139.0,267.0,8.0,Pathology,2136.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,12,13,No,3.0,140.0,267.0,8.0,Pathology,2136.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000416.h5,13,14,No,3.0,140.0,267.0,7.0,Pathology,1869.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000434.h5,4,5,No,119.0,108.0,88.0,109.0,Pathology,9592.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000434.h5,5,6,No,123.0,115.0,81.0,96.0,Pathology,7776.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000434.h5,6,7,No,126.0,122.0,73.0,83.0,Pathology,6059.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,0,1,No,107.0,275.0,43.0,34.0,Pathology,1462.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,1,2,No,108.0,271.0,42.0,36.0,Pathology,1512.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,2,3,No,108.0,268.0,42.0,37.0,Pathology,1554.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,3,4,No,108.0,264.0,42.0,38.0,Pathology,1596.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,4,5,No,109.0,260.0,42.0,39.0,Pathology,1638.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,5,6,No,109.0,257.0,42.0,40.0,Pathology,1680.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,6,7,No,110.0,253.0,42.0,41.0,Pathology,1722.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,7,8,No,110.0,250.0,42.0,42.0,Pathology,1764.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,8,9,No,111.0,246.0,42.0,44.0,Pathology,1848.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,9,10,No,111.0,242.0,41.0,45.0,Pathology,1845.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,10,11,No,112.0,239.0,41.0,46.0,Pathology,1886.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,11,12,No,112.0,235.0,41.0,47.0,Pathology,1927.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000505.h5,12,13,No,108.0,227.0,50.0,39.0,Pathology,1950.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,0,1,No,147.0,204.0,50.0,58.0,Pathology,2900.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,1,2,No,149.0,205.0,48.0,56.0,Pathology,2688.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,2,3,No,150.0,205.0,45.0,54.0,Pathology,2430.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,3,4,No,152.0,206.0,42.0,52.0,Pathology,2184.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,4,5,No,154.0,207.0,40.0,51.0,Pathology,2040.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,5,6,No,156.0,208.0,37.0,49.0,Pathology,1813.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,6,7,No,157.0,209.0,35.0,47.0,Pathology,1645.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,7,8,No,164.0,212.0,21.0,30.0,Pathology,630.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,8,9,No,183.0,246.0,24.0,45.0,Pathology,1080.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,9,10,No,182.0,242.0,23.0,47.0,Pathology,1081.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,10,11,No,182.0,238.0,23.0,50.0,Pathology,1150.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,11,12,No,181.0,234.0,23.0,53.0,Pathology,1219.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,12,13,No,188.0,184.0,29.0,81.0,Pathology,2349.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,13,14,No,183.0,179.0,33.0,78.0,Pathology,2574.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,14,15,No,178.0,175.0,37.0,75.0,Pathology,2775.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000518.h5,15,16,No,173.0,170.0,42.0,72.0,Pathology,3024.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000577.h5,6,7,No,156.0,66.0,64.0,86.0,Pathology,5504.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000577.h5,7,8,No,158.0,68.0,58.0,87.0,Pathology,5046.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000577.h5,8,9,No,160.0,68.0,45.0,85.0,Pathology,3825.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000577.h5,9,10,No,160.0,78.0,42.0,76.0,Pathology,3192.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000577.h5,10,11,No,161.0,107.0,20.0,43.0,Pathology,860.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,0,1,No,104.0,172.0,115.0,68.0,Pathology,7820.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,1,2,No,104.0,94.0,115.0,141.0,Pathology,16215.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,2,3,No,107.0,98.0,107.0,133.0,Pathology,14231.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,3,4,No,110.0,102.0,100.0,126.0,Pathology,12600.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,4,5,No,113.0,106.0,92.0,119.0,Pathology,10948.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,5,6,No,116.0,111.0,85.0,112.0,Pathology,9520.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,6,7,No,119.0,115.0,78.0,104.0,Pathology,8112.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_206_2060056.h5,7,8,No,122.0,119.0,70.0,97.0,Pathology,6790.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6001988.h5,12,13,No,96.0,221.0,17.0,25.0,Pathology,425.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6001988.h5,13,14,No,101.0,219.0,17.0,23.0,Pathology,391.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,0,1,No,176.0,179.0,34.0,42.0,Pathology,1428.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,1,2,No,183.0,180.0,26.0,38.0,Pathology,988.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,2,3,No,185.0,186.0,23.0,30.0,Pathology,690.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,3,4,No,165.0,149.0,88.0,120.0,Pathology,10560.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,4,5,No,171.0,159.0,77.0,113.0,Pathology,8701.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,5,6,No,173.0,167.0,73.0,92.0,Pathology,6716.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,6,7,No,167.0,181.0,68.0,75.0,Pathology,5100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,7,8,No,167.0,184.0,67.0,58.0,Pathology,3886.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,8,9,No,171.0,197.0,40.0,43.0,Pathology,1720.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002026.h5,9,10,No,182.0,203.0,20.0,29.0,Pathology,580.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,0,1,No,97.0,136.0,125.0,101.0,Pathology,12625.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,1,2,No,104.0,105.0,109.0,130.0,Pathology,14170.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,2,3,No,106.0,108.0,104.0,124.0,Pathology,12896.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,3,4,No,108.0,112.0,100.0,118.0,Pathology,11800.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,4,5,No,109.0,115.0,95.0,112.0,Pathology,10640.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,5,6,No,111.0,118.0,91.0,106.0,Pathology,9646.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,6,7,No,113.0,121.0,86.0,100.0,Pathology,8600.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002027.h5,7,8,No,119.0,135.0,76.0,77.0,Pathology,5852.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002052.h5,0,1,No,134.0,139.0,8.0,10.0,Pathology,80.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002052.h5,5,6,No,133.0,118.0,10.0,13.0,Pathology,130.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002059.h5,0,1,No,71.0,143.0,18.0,37.0,Pathology,666.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002059.h5,1,2,No,72.0,136.0,18.0,39.0,Pathology,702.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002059.h5,2,3,No,74.0,129.0,18.0,42.0,Pathology,756.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002059.h5,8,9,No,193.0,165.0,18.0,45.0,Pathology,810.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002073.h5,11,12,No,128.0,177.0,32.0,13.0,Pathology,416.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,0,1,No,50.0,144.0,11.0,12.0,Pathology,132.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,1,2,No,51.0,140.0,8.0,15.0,Pathology,120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,2,3,No,47.0,141.0,14.0,24.0,Pathology,336.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,3,4,No,53.0,126.0,16.0,25.0,Pathology,400.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,4,5,No,56.0,124.0,18.0,39.0,Pathology,702.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,5,6,No,59.0,114.0,23.0,27.0,Pathology,621.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,6,7,No,60.0,111.0,22.0,40.0,Pathology,880.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,7,8,No,60.0,99.0,38.0,68.0,Pathology,2584.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,8,9,No,64.0,100.0,39.0,71.0,Pathology,2769.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,9,10,No,69.0,100.0,39.0,75.0,Pathology,2925.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,10,11,No,73.0,100.0,40.0,78.0,Pathology,3120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,11,12,No,77.0,100.0,40.0,81.0,Pathology,3240.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,12,13,No,81.0,100.0,41.0,85.0,Pathology,3485.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,13,14,No,102.0,96.0,29.0,49.0,Pathology,1421.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,14,15,No,109.0,103.0,24.0,41.0,Pathology,984.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002080.h5,15,16,No,116.0,109.0,19.0,34.0,Pathology,646.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,6,7,No,177.0,148.0,10.0,7.0,Pathology,70.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,7,8,No,178.0,147.0,11.0,8.0,Pathology,88.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,8,9,No,180.0,146.0,11.0,8.0,Pathology,88.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,9,10,No,181.0,145.0,12.0,9.0,Pathology,108.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,10,11,No,182.0,143.0,12.0,9.0,Pathology,108.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,11,12,No,184.0,142.0,12.0,10.0,Pathology,120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,12,13,No,185.0,141.0,13.0,10.0,Pathology,130.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002084.h5,13,14,No,189.0,130.0,27.0,19.0,Pathology,513.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,1,2,No,200.0,195.0,10.0,13.0,Pathology,130.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,2,3,No,199.0,198.0,12.0,12.0,Pathology,144.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,5,6,No,191.0,164.0,17.0,39.0,Pathology,663.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,6,7,No,251.0,175.0,16.0,20.0,Pathology,320.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,7,8,No,228.0,146.0,36.0,101.0,Pathology,3636.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,8,9,No,217.0,144.0,44.0,107.0,Pathology,4708.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,9,10,No,206.0,140.0,49.0,109.0,Pathology,5341.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,10,11,No,195.0,137.0,55.0,111.0,Pathology,6105.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,11,12,No,183.0,134.0,61.0,113.0,Pathology,6893.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,12,13,No,160.0,135.0,71.0,109.0,Pathology,7739.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,13,14,No,156.0,134.0,67.0,102.0,Pathology,6834.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,14,15,No,152.0,133.0,62.0,96.0,Pathology,5952.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002216.h5,15,16,No,148.0,133.0,58.0,89.0,Pathology,5162.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002237.h5,0,1,No,247.0,131.0,22.0,51.0,Pathology,1122.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002237.h5,1,2,No,247.0,132.0,25.0,51.0,Pathology,1275.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002237.h5,2,3,No,246.0,129.0,33.0,61.0,Pathology,2013.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002237.h5,3,4,No,115.0,148.0,43.0,94.0,Pathology,4042.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002237.h5,4,5,No,103.0,126.0,62.0,117.0,Pathology,7254.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002237.h5,14,15,No,140.0,140.0,51.0,114.0,Pathology,5814.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,0,1,No,91.0,262.0,11.0,10.0,Pathology,110.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,1,2,No,45.0,208.0,64.0,94.0,Pathology,6016.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,2,3,No,43.0,210.0,62.0,90.0,Pathology,5580.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,3,4,No,41.0,212.0,61.0,86.0,Pathology,5246.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,4,5,No,39.0,214.0,59.0,83.0,Pathology,4897.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,5,6,No,41.0,216.0,46.0,62.0,Pathology,2852.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,6,7,No,40.0,213.0,38.0,48.0,Pathology,1824.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002291.h5,7,8,No,50.0,218.0,23.0,30.0,Pathology,690.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002299.h5,6,7,No,101.0,160.0,21.0,22.0,Pathology,462.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002299.h5,11,12,No,106.0,173.0,24.0,11.0,Pathology,264.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002299.h5,14,15,No,217.0,179.0,23.0,49.0,Pathology,1127.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002299.h5,15,16,No,211.0,176.0,13.0,56.0,Pathology,728.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002376.h5,1,2,No,194.0,118.0,11.0,14.0,Pathology,154.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002376.h5,2,3,No,191.0,113.0,20.0,27.0,Pathology,540.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002376.h5,3,4,No,191.0,110.0,24.0,32.0,Pathology,768.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002376.h5,4,5,No,189.0,114.0,25.0,24.0,Pathology,600.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002376.h5,5,6,No,187.0,117.0,17.0,9.0,Pathology,153.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,7,8,No,108.0,118.0,5.0,6.0,Pathology,30.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,9,10,No,70.0,102.0,24.0,90.0,Pathology,2160.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,10,11,No,71.0,105.0,35.0,86.0,Pathology,3010.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,11,12,No,72.0,109.0,46.0,83.0,Pathology,3818.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,12,13,No,73.0,112.0,57.0,79.0,Pathology,4503.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,13,14,No,100.0,117.0,42.0,67.0,Pathology,2814.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,14,15,No,119.0,121.0,38.0,53.0,Pathology,2014.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002401.h5,15,16,No,112.0,118.0,48.0,41.0,Pathology,1968.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002665.h5,9,10,No,56.0,207.0,67.0,67.0,Pathology,4489.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002665.h5,10,11,No,57.0,207.0,67.0,65.0,Pathology,4355.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002665.h5,11,12,No,58.0,206.0,67.0,63.0,Pathology,4221.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002665.h5,12,13,No,59.0,206.0,67.0,62.0,Pathology,4154.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002665.h5,13,14,No,85.0,158.0,63.0,80.0,Pathology,5040.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002665.h5,14,15,No,66.0,182.0,76.0,84.0,Pathology,6384.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002672.h5,0,1,No,60.0,107.0,35.0,32.0,Pathology,1120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002675.h5,0,1,No,149.0,251.0,20.0,24.0,Pathology,480.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002675.h5,1,2,No,148.0,254.0,24.0,19.0,Pathology,456.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002675.h5,2,3,No,154.0,252.0,12.0,16.0,Pathology,192.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002685.h5,2,3,No,62.0,106.0,78.0,201.0,Pathology,15678.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002685.h5,3,4,No,67.0,117.0,75.0,185.0,Pathology,13875.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002685.h5,12,13,No,125.0,192.0,28.0,37.0,Pathology,1036.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002700.h5,5,6,No,85.0,198.0,4.0,8.0,Pathology,32.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002700.h5,6,7,No,86.0,199.0,5.0,8.0,Pathology,40.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002700.h5,8,9,No,100.0,87.0,12.0,13.0,Pathology,156.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002700.h5,9,10,No,94.0,89.0,20.0,35.0,Pathology,700.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002700.h5,10,11,No,100.0,94.0,13.0,32.0,Pathology,416.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,2,3,No,190.0,104.0,87.0,122.0,Pathology,10614.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,3,4,No,197.0,103.0,79.0,122.0,Pathology,9638.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,4,5,No,204.0,103.0,71.0,121.0,Pathology,8591.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,5,6,No,212.0,102.0,63.0,121.0,Pathology,7623.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,6,7,No,219.0,101.0,54.0,120.0,Pathology,6480.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,7,8,No,226.0,100.0,46.0,120.0,Pathology,5520.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,8,9,No,233.0,100.0,38.0,119.0,Pathology,4522.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,9,10,No,241.0,99.0,30.0,119.0,Pathology,3570.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,10,11,No,223.0,89.0,45.0,135.0,Pathology,6075.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,11,12,No,214.0,83.0,51.0,120.0,Pathology,6120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002732.h5,12,13,No,205.0,77.0,57.0,105.0,Pathology,5985.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,0,1,No,44.0,80.0,30.0,53.0,Pathology,1590.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,1,2,No,48.0,81.0,32.0,54.0,Pathology,1728.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,2,3,No,51.0,82.0,33.0,55.0,Pathology,1815.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,3,4,No,54.0,83.0,34.0,56.0,Pathology,1904.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,4,5,No,58.0,84.0,36.0,57.0,Pathology,2052.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,5,6,No,61.0,85.0,37.0,58.0,Pathology,2146.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,6,7,No,65.0,86.0,39.0,59.0,Pathology,2301.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,7,8,No,68.0,87.0,40.0,61.0,Pathology,2440.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,8,9,No,72.0,88.0,41.0,62.0,Pathology,2542.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,9,10,No,75.0,89.0,43.0,63.0,Pathology,2709.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,10,11,No,78.0,90.0,44.0,64.0,Pathology,2816.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002743.h5,11,12,No,82.0,91.0,45.0,65.0,Pathology,2925.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002762.h5,0,1,No,202.0,90.0,37.0,50.0,Pathology,1850.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002762.h5,1,2,No,200.0,91.0,36.0,49.0,Pathology,1764.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002762.h5,2,3,No,198.0,92.0,35.0,48.0,Pathology,1680.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002762.h5,3,4,No,197.0,93.0,34.0,47.0,Pathology,1598.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002762.h5,4,5,No,195.0,95.0,33.0,46.0,Pathology,1518.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002762.h5,5,6,No,193.0,96.0,33.0,45.0,Pathology,1485.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002762.h5,6,7,No,191.0,97.0,32.0,44.0,Pathology,1408.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,0,1,No,166.0,182.0,84.0,92.0,Pathology,7728.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,1,2,No,165.0,185.0,74.0,90.0,Pathology,6660.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,2,3,No,165.0,188.0,65.0,87.0,Pathology,5655.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,3,4,No,165.0,192.0,55.0,85.0,Pathology,4675.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,4,5,No,165.0,195.0,46.0,83.0,Pathology,3818.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,5,6,No,168.0,207.0,40.0,59.0,Pathology,2360.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,6,7,No,176.0,223.0,14.0,33.0,Pathology,462.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,9,10,No,147.0,252.0,37.0,28.0,Pathology,1036.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,10,11,No,148.0,249.0,35.0,26.0,Pathology,910.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002785.h5,11,12,No,149.0,246.0,32.0,25.0,Pathology,800.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002788.h5,0,1,No,170.0,141.0,34.0,23.0,Pathology,782.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002788.h5,1,2,No,176.0,142.0,26.0,18.0,Pathology,468.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002788.h5,2,3,No,180.0,140.0,21.0,22.0,Pathology,462.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002788.h5,3,4,No,181.0,143.0,26.0,25.0,Pathology,650.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002788.h5,4,5,No,187.0,148.0,19.0,17.0,Pathology,323.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002788.h5,5,6,No,191.0,153.0,12.0,11.0,Pathology,132.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002806.h5,7,8,No,100.0,69.0,61.0,95.0,Pathology,5795.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002806.h5,8,9,No,105.0,86.0,50.0,71.0,Pathology,3550.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002806.h5,9,10,No,118.0,100.0,37.0,53.0,Pathology,1961.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002588.h5,1,2,No,203.0,166.0,4.0,10.0,Lacunar infarct,40.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002868.h5,1,2,No,123.0,157.0,10.0,10.0,Lacunar infarct,100.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,7,8,No,127.0,203.0,8.0,13.0,Lacunar infarct,104.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,8,9,No,126.0,205.0,17.0,24.0,Lacunar infarct,408.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,9,10,No,124.0,211.0,17.0,17.0,Lacunar infarct,289.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002874.h5,10,11,No,127.0,216.0,17.0,11.0,Lacunar infarct,187.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002910.h5,3,4,No,81.0,156.0,86.0,83.0,Encephalomalacia,7138.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002910.h5,11,12,No,107.0,144.0,56.0,88.0,Encephalomalacia,4928.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002910.h5,12,13,No,111.0,143.0,52.0,89.0,Encephalomalacia,4628.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002910.h5,13,14,No,114.0,141.0,48.0,90.0,Encephalomalacia,4320.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002936.h5,0,1,No,104.0,135.0,9.0,12.0,Lacunar infarct,108.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002936.h5,1,2,No,104.0,136.0,5.0,15.0,Lacunar infarct,75.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002936.h5,6,7,No,186.0,141.0,14.0,13.0,Lacunar infarct,182.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002936.h5,7,8,No,188.0,140.0,11.0,14.0,Lacunar infarct,154.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002946.h5,5,6,No,125.0,150.0,22.0,14.0,Lacunar infarct,308.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002974.h5,5,6,No,188.0,197.0,18.0,26.0,Encephalomalacia,468.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002974.h5,6,7,No,186.0,195.0,21.0,29.0,Encephalomalacia,609.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002974.h5,7,8,No,184.0,193.0,23.0,32.0,Encephalomalacia,736.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002974.h5,8,9,No,183.0,195.0,27.0,33.0,Encephalomalacia,891.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002974.h5,9,10,No,183.0,194.0,27.0,34.0,Encephalomalacia,918.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002974.h5,10,11,No,183.0,192.0,28.0,34.0,Encephalomalacia,952.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002974.h5,11,12,No,183.0,190.0,28.0,35.0,Encephalomalacia,980.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000573.h5,7,8,No,86.0,128.0,8.0,9.0,Lacunar infarct,72.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000573.h5,8,9,No,86.0,129.0,6.0,8.0,Lacunar infarct,48.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,0,1,No,64.0,100.0,35.0,36.0,Encephalomalacia,1260.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,1,2,No,65.0,101.0,37.0,39.0,Encephalomalacia,1443.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,2,3,No,67.0,103.0,38.0,43.0,Encephalomalacia,1634.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,3,4,No,69.0,104.0,39.0,47.0,Encephalomalacia,1833.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,4,5,No,70.0,106.0,41.0,51.0,Encephalomalacia,2091.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,5,6,No,72.0,107.0,42.0,55.0,Encephalomalacia,2310.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,6,7,No,74.0,109.0,43.0,59.0,Encephalomalacia,2537.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,7,8,No,76.0,110.0,44.0,62.0,Encephalomalacia,2728.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,8,9,No,77.0,112.0,46.0,66.0,Encephalomalacia,3036.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,9,10,No,79.0,113.0,47.0,70.0,Encephalomalacia,3290.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,10,11,No,81.0,115.0,48.0,74.0,Encephalomalacia,3552.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000939.h5,11,12,No,82.0,116.0,50.0,78.0,Encephalomalacia,3900.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,0,1,No,62.0,56.0,15.0,16.0,Encephalomalacia,240.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,1,2,No,62.0,53.0,23.0,21.0,Encephalomalacia,483.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,3,4,No,62.0,63.0,14.0,17.0,Encephalomalacia,238.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,4,5,No,81.0,178.0,21.0,43.0,Encephalomalacia,903.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,5,6,No,46.0,99.0,57.0,110.0,Encephalomalacia,6270.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,6,7,No,47.0,97.0,61.0,106.0,Encephalomalacia,6466.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,7,8,No,42.0,98.0,68.0,99.0,Encephalomalacia,6732.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,8,9,No,56.0,97.0,55.0,97.0,Encephalomalacia,5335.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,9,10,No,69.0,96.0,43.0,94.0,Encephalomalacia,4042.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000243.h5,10,11,No,82.0,95.0,30.0,91.0,Encephalomalacia,2730.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002793.h5,0,1,No,170.0,160.0,12.0,14.0,Lacunar infarct,168.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,0,1,No,176.0,122.0,64.0,36.0,Mass,2304.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,1,2,No,175.0,121.0,65.0,37.0,Mass,2405.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,2,3,No,173.0,120.0,66.0,39.0,Mass,2574.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,3,4,No,172.0,120.0,66.0,40.0,Mass,2640.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,4,5,No,170.0,119.0,67.0,42.0,Mass,2814.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,5,6,No,168.0,119.0,68.0,44.0,Mass,2992.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,6,7,No,176.0,120.0,61.0,45.0,Mass,2745.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,7,8,No,179.0,121.0,26.0,46.0,Mass,1196.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,8,9,No,176.0,121.0,27.0,45.0,Mass,1215.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,9,10,No,174.0,121.0,28.0,45.0,Mass,1260.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,10,11,No,171.0,121.0,29.0,44.0,Mass,1276.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020181.h5,11,12,No,169.0,121.0,29.0,43.0,Mass,1247.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020283.h5,0,1,No,168.0,147.0,36.0,36.0,Mass,1296.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020283.h5,1,2,No,172.0,150.0,33.0,32.0,Mass,1056.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020283.h5,2,3,No,175.0,152.0,31.0,28.0,Mass,868.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020283.h5,3,4,No,179.0,154.0,28.0,25.0,Mass,700.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020283.h5,4,5,No,184.0,160.0,19.0,16.0,Mass,304.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020305.h5,0,1,No,213.0,158.0,46.0,52.0,Mass,2392.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020305.h5,1,2,No,206.0,179.0,7.0,11.0,Mass,77.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020305.h5,2,3,No,202.0,180.0,12.0,9.0,Mass,108.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020305.h5,5,6,No,108.0,87.0,24.0,20.0,Mass,480.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020305.h5,6,7,No,108.0,88.0,22.0,18.0,Mass,396.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020305.h5,7,8,No,108.0,88.0,21.0,15.0,Mass,315.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020305.h5,9,10,No,117.0,208.0,10.0,12.0,Mass,120.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020530.h5,1,2,No,146.0,227.0,10.0,8.0,Mass,80.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020530.h5,2,3,No,146.0,224.0,10.0,11.0,Mass,110.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020530.h5,3,4,No,145.0,221.0,11.0,15.0,Mass,165.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020576.h5,1,2,No,122.0,64.0,84.0,77.0,Mass,6468.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020576.h5,2,3,No,127.0,68.0,75.0,72.0,Mass,5400.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020576.h5,3,4,No,132.0,72.0,66.0,67.0,Mass,4422.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002059.h5,11,12,No,206.0,167.0,11.0,12.0,Mass,132.0,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002447.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002471.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002499.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002556.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_200_6002574.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002915.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002942.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_201_6002948.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000420.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000422.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000427.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_202_6000586.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000923.h5,0,12,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_203_6000938.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_206_6000238.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_209_6001358.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_209_6001399.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001492.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001497.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001553.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001907.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001919.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXFLAIR_210_6001950.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002736.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002828.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_201_6002861.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020033.h5,0,12,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020038.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020093.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020102.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020105.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020188.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020197.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020228.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020241.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020270.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020281.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020287.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020302.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020325.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020342.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020368.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020386.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020438.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020444.h5,0,10,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020446.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020538.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020563.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020564.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_2020567.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000292.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000296.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000303.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000308.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000315.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000326.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000372.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000389.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000432.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000451.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000470.h5,0,14,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000503.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000537.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000587.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1_202_6000591.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6001976.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6001979.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6001982.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002016.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002048.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002103.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002156.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002170.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002176.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002198.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002200.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002248.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002326.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002330.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002353.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_200_6002404.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002686.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002687.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002705.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002739.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002741.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain
+/media/ssd2/fastMRIdata/brain/multicoil_val/,file_brain_AXT1POST_201_6002768.h5,0,16,Yes,,,,,Normal for age,,fastmri_brain

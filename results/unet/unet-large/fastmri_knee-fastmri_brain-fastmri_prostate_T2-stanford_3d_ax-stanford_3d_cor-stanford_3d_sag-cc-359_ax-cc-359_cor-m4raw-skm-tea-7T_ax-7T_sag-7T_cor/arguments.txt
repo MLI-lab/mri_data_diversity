@@ -1,0 +1,13 @@
+14:54:06 12/13/23 UTC, New run:
+model: unet-large
+finetune: None
+save_dir: results/unet/unet-large/fastmri_knee-fastmri_brain-fastmri_prostate_T2-stanford_3d_ax-stanford_3d_cor-stanford_3d_sag-cc-359_ax-cc-359_cor-m4raw-skm-tea-7T_ax-7T_sag-7T_cor
+traineset file: dataset_csv/full_datasets/train/all_data.csv
+testset file: dataset_csv/full_datasets/test/all_data.csv
+train attributes: ({'datasetName': 'fastmri_knee'}, {'datasetName': 'fastmri_brain'}, {'datasetName': 'fastmri_prostate_T2'}, {'datasetName': 'stanford_3d_ax'}, {'datasetName': 'stanford_3d_cor'}, {'datasetName': 'stanford_3d_sag'}, {'datasetName': 'cc-359_ax'}, {'datasetName': 'cc-359_cor'}, {'datasetName': 'm4raw'}, {'datasetName': 'skm-tea'}, {'datasetName': '7T_ax'}, {'datasetName': '7T_sag'}, {'datasetName': '7T_cor'})
+test attributes: [{'datasetName': 'fastmri_knee'}, {'datasetName': 'fastmri_brain'}, {'datasetName': 'nyu'}, {'datasetName': 'stanford_2d'}, {'datasetName': 'm4raw_gre_rot'}, {'datasetName': 'cc-359_sag'}]
+accleration factors: [4]
+training epochs: 40
+checkpoint epochs: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+model_seed: 0
+lr: 0.0004

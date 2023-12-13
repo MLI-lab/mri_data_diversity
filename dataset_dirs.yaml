@@ -1,0 +1,60 @@
+# ADJUST THE PATH TO THE FOLLWOING DATASETS AND THEN RUN adjust_path_to_datasets.py
+
+# official train/val/test splits 
+train:
+  - fastmri_knee: /media/ssd2/fastMRIdata/knee/multicoil_train/
+  - fastmri_brain: /media/ssd2/fastMRIdata/brain/multicoil_train/
+  - fastmri_prostate_T2: /media/ssd2/fastMRIdata/prostate/T2_converted/train/
+  - m4raw: /media/ssd2/M4Raw/multicoil_train_flip/
+  - cc-359_sag: /media/hdd2/cc-359/data_sag_flip/train/
+  - cc-359_ax: /media/hdd2/cc-359/data_ax_flip/train/
+  - cc-359_cor: /media/hdd2/cc-359/data_cor_flip/train/
+  - stanford_2d: /media/hdd2/stanford_2d/data_flip/train/
+  - stanford_3d_ax: /media/hdd2/stanford_3d/data_ax_flip/train/
+  - stanford_3d_cor: /media/hdd2/stanford_3d/data_cor_flip/train/
+  - stanford_3d_sag: /media/hdd2/stanford_3d/data_sag_flip/train/
+  - skm-tea: /media/ssd2/skm-tea/data_sag/train/
+  - m4raw_gre_rot: /media/ssd2/M4Raw/gre_train_rot/
+  - nyu: /media/ssd2/nyu_2d/data/train/
+  - 7T_ax: /media/ssd3/7T/ax/train/
+  - 7T_cor: /media/ssd3/7T/cor/train/
+  - 7T_sag: /media/ssd3/7T/sag/train/
+
+val:
+  # following two will be included in the training set as separate testset exist
+  - fastmri_brain: /media/ssd2/fastMRIdata/brain/multicoil_val/
+  - fastmri_prostate_T2: /media/ssd2/fastMRIdata/prostate/T2_converted/val/
+  # following will be included in the test set as no separate testset exits
+  - fastmri_knee: /media/ssd2/fastMRIdata/knee/multicoil_val/
+  - cc-359_sag: /media/hdd2/cc-359/data_sag_flip/val/
+  - cc-359_ax: /media/hdd2/cc-359/data_ax_flip/val/
+  - cc-359_cor: /media/hdd2/cc-359/data_cor_flip/val/
+  - m4raw_gre_rot: /media/ssd2/M4Raw/gre_val_rot/
+
+test:
+ - fastmri_brain: /media/ssd2/fastMRIdata/brain/multicoil_test/
+ - fastmri_prostate_T2: /media/ssd2/fastMRIdata/prostate/T2_converted/test/
+ - m4raw: /media/ssd2/M4Raw/multicoil_test_flip/
+ - stanford_2d: /media/ssd2/stanford_2d/data_flip/test/
+ - stanford_3d_ax: /media/hdd2/stanford_3d/data_ax_flip/test/
+ - stanford_3d_cor: /media/hdd2/stanford_3d/data_cor_flip/test/
+ - stanford_3d_sag: /media/hdd2/stanford_3d/data_sag_flip/test/
+ - skm-tea: /media/ssd2/skm-tea/data_sag/test/
+ - nyu: /media/ssd2/nyu_2d/data/test/
+ - 7T_ax: /media/ssd3/7T/ax/test/
+ - 7T_cor: /media/ssd3/7T/cor/test/
+ - 7T_sag: /media/ssd3/7T/sag/test/
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

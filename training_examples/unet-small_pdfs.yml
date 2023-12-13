@@ -1,0 +1,57 @@
+save_dir: results/unet/unet-small/pd_pdfs/seed_0/01/
+trainset_csv: dataset_csv/fastmri_sliced/train/seed_0/trainset_01.csv
+testset_csv: dataset_csv/fastmri_sliced/test/testset.csv
+
+model: unet-small
+lr: 0.001
+batch_size: 1
+num_epochs: 60
+checkpoint_epochs: all
+augment_data: False
+
+accl_factors:
+  - 4
+
+train_attr:
+  - protocolName: CORPDFS_FBK
+    systemModel: Aera
+  - protocolName: CORPDFS_FBK
+    systemModel: Skyra
+  - protocolName: CORPDFS_FBK
+    systemModel: Biograph_mMR
+
+test_attr:
+  # Brain distributions
+  - protocolName: AXFLAIR
+    systemModel: Skyra
+  - protocolName: AXT1
+    systemModel: Aera
+  - protocolName: AXT1POST
+    systemModel: Aera
+  - protocolName: AXT1POST
+    systemModel: Avanto
+  - protocolName: AXT1POST
+    systemModel: Skyra
+  - protocolName: AXT2
+    systemModel: Aera
+  - protocolName: AXT2
+    systemModel: Avanto
+  - protocolName: AXT2
+    systemModel: Skyra
+  - protocolName: AXT2
+    systemModel: Prisma_fit
+  - protocolName: AXT2
+    systemModel: Biograph_mMR
+  # Knee distributions
+  - protocolName: CORPDFS_FBK
+    systemModel: Aera
+  - protocolName: CORPDFS_FBK
+    systemModel: Skyra
+  - protocolName: CORPDFS_FBK
+    systemModel: Biograph_mMR
+  - protocolName: CORPD_FBK
+    systemModel: Aera
+  - protocolName: CORPD_FBK
+    systemModel: Skyra
+  - protocolName: CORPD_FBK
+    systemModel: Biograph_mMR

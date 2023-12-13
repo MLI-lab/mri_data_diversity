@@ -1,0 +1,40 @@
+save_dir: results/unet/unet-large/
+trainset_csv: dataset_csv/full_datasets/train/all_data.csv
+testset_csv: dataset_csv/full_datasets/test/all_data.csv
+
+results_folder: normalized_output
+normalize_output_during_testing: True
+adjust_img_size_factor: 1
+
+model: unet-large # choices: unet-small, vit-small, unet-large, vit-large, varnet-small, varnet-large
+lr: 0.0004
+batch_size: 8
+num_epochs: 40 
+checkpoint_epochs: all
+augment_data: False
+
+accl_factors:
+  - 4
+
+train_attr: 
+  - datasetName: fastmri_knee
+  - datasetName: fastmri_brain
+  - datasetName: fastmri_prostate_T2
+  - datasetName: stanford_3d_ax
+  - datasetName: stanford_3d_cor
+  - datasetName: stanford_3d_sag
+  - datasetName: cc-359_ax
+  - datasetName: cc-359_cor
+  - datasetName: m4raw
+  - datasetName: skm-tea
+  - datasetName: 7T_ax
+  - datasetName: 7T_sag
+  - datasetName: 7T_cor
+
+test_attr: 
+  - datasetName: fastmri_knee
+  - datasetName: fastmri_brain
+  - datasetName: nyu
+  - datasetName: stanford_2d
+  - datasetName: m4raw_gre_rot
+  - datasetName: cc-359_sag
