@@ -1,5 +1,5 @@
 # Robustness of Deep Learning for Accelerated MRI: Benefits of Diverse Training Data
-This repository provides code for reproducing the results of the paper: [Robustness of Deep Learning for Accelerated MRI: Benefits of Diverse Training Data](https://arxiv.org/pdf/2207.---.pdf), by Kang Lin and Reinhard Heckel. `TODO: UPDATE URL`
+This repository provides code for reproducing the results of the paper: Robustness of Deep Learning for Accelerated MRI: Benefits of Diverse Training Data, by Kang Lin and Reinhard Heckel.
 
 ## Datasets
 The majority of experiments from the paper are based on the [fastMRI dataset](https://fastmri.med.nyu.edu/). A detailed list of all datasets used and their references can be found in Table 1 in the paper.
@@ -21,6 +21,8 @@ Then, install the following depedencies in the given order using `pip`:
 
 ## Usage
 First download the datasets listed in Table 1 in the paper. Then convert all the datasets to a usable format by following the instructions in the folder `convert_datasets`.
+
+Then adjust the path to the datasets in `dataset_dirs.yaml` and run `python adjust_path_to_datasets.py`.
 
 To reproduce the results from Section 3, 4, and 5, only the fastMRI knee and fastMRI brain datasets are needed.
 
@@ -65,13 +67,7 @@ To do so, specify the number of GPUs by passing it to the keyword `--world_size`
 
 For other models and their configurations see Appendix D in the paper.
 
-## Citation
-```
-TODO
-```
 ## License
-```
-TODO
-```
+This repository is [Apache 2.0](https://github.com/MLI-lab/mri_data_diversity/blob/main/LICENSE) licensed.
 
 
